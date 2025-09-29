@@ -30,8 +30,8 @@
   <img width="12" />
 
 
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/jquery-logo-with-text.svg" height="40" alt="jQuery logo with text" />
 
-JQuery
 
 
 
