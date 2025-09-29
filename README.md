@@ -31,7 +31,13 @@
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery logo" />
+
+<!-- Spacer -->
+<img width="8" />
+
+<!-- jQuery Text -->
+<span style="font-size: 20px; font-family: Arial, sans-serif;">jQuery</span>
 
 
 
