@@ -31,8 +31,8 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery logo" />
-&nbsp;**jQuery**
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/jquery-logo-with-text.svg" height="40" alt="jQuery logo with text" />
+
 
 
 
