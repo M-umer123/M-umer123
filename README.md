@@ -31,7 +31,14 @@
 
 
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/jquery-logo-with-text.svg" height="40" alt="jQuery logo with text" />
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wave symbol (inspired by the jQuery swoosh) -->
+  <path d="M20,40 Q25,20 40,30 Q55,40 60,20" stroke="#0769AD" stroke-width="5" fill="none"/>
+  <path d="M30,45 Q35,25 50,35 Q65,45 70,25" stroke="#0769AD" stroke-width="3" fill="none"/>
+  
+  <!-- jQuery text -->
+  <text x="80" y="40" font-family="Arial, sans-serif" font-size="24" fill="#0769AD">jQuery</text>
+</svg>
 
 
 
