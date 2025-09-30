@@ -31,7 +31,7 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery logo" />
-&nbsp;**jQuery**
+&nbsp;<span style="font-size:33px; margin-top:-5px;">**jQuery**</span>
 
 
 
