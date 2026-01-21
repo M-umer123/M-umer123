@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is M.Umer.</p>
-<p align="left"> I'm a Frontend Designer </p>
+<p align="left"> I'm a Frontend Designer & a PHP Developer </p>
 
 ###
 
