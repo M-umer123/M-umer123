@@ -31,7 +31,12 @@
 
 
  < img style="padding:10px 0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" /> 
-<!-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/php.svg" height="60" alt="PHP logo" /> -->
+<img
+  style="padding:10px 0; background:#5C5CFF; border-radius:6px;"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/php.svg"
+  height="60"
+  alt="PHP logo"
+/>
 
 
 
