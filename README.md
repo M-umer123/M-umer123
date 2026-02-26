@@ -2,11 +2,13 @@
 
 ###
 
-<p align="left">My name is M.Umer. I'm a PHP Developer</p>
+<p align="left">👋 My name is M.Umer. I'm a 💻 PHP Developer.</p>
 
 
 # 💫 About Me:
-✨ Currently studying in Aptech Institute<br>📚 I'm currently pursuing a diploma.<br>🎓 I'm intermediate Graduate.
+🏫 Student at Aptech Institute<br>📜 Web Dev Diploma Candidate<br>🎓 Intermediate Graduate
+
+
 
 
 # 💻 Tech Stack:
