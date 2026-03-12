@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🏫 Student at Aptech Institute<br>📜 Web Dev Diploma Candidate<br>🎓 Intermediate Graduate
+🏫 Student at Aptech Institute<br>📜 Web Dev Diploma Candidate<br>🎓 Intermediate Graduate<br>🐘 PHP & 🗄️ MySQL Developer 
 
 
 
